@@ -1,0 +1,2 @@
+# SololearnCopy
+Belajar Slicing
